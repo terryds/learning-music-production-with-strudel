@@ -24,4 +24,4 @@ This repository hosts the Notion export as Markdown/CSV for contribution purpose
 ## Contributing
 
 - Feel free to create a PR to contribute
-- Or, you can also email me at learningmusic@terrydjony.com for any contributions, questions, or feedback!
+- Or, you can also email me at strudel@terrydjony.com for any contributions, questions, or feedback!
