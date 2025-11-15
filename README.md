@@ -23,15 +23,5 @@ This repository hosts the Notion export as Markdown/CSV for contribution purpose
 
 ## Contributing
 
-- Propose edits to the Markdown exports or add new lesson ideas/patches/snippets.
-- Keep screenshots and media lightweight; store them alongside the lesson that references them.
-- Open an issue or discussion before large structural changes so the community can weigh in.
-
-## Roadmap Ideas
-
-- Add interactive Strudel snippets that embed directly in the README or docs.
-- Document suggested week-by-week practice plans.
-- Collect learner showcase examples and remix challenges.
-
-Thanks for helping more people learn to make music right in the browser! Feel free to open an issue if you have questions about the workflow or content structure.
-
+- Feel free to create a PR to contribute
+- Or, you can also email me at learningmusic@terrydjony.com for any contributions, questions, or feedback!
